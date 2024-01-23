@@ -44,7 +44,7 @@ This is a simple Streamlit-based coffee machine simulation where users can order
 
 ## Screenshots
 
-![The Coffee Machine](https://github.com/Gorachand22/The-Coffee-Machine/blob/main/images/coffee.png)
+![The Coffee Machine](https://github.com/Gorachand22/The-Coffee-Machine/blob/master/images/coffee.png)
 
 ## Future Enhancements
 
