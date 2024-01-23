@@ -1,6 +1,6 @@
 # Coffee Machine Project
 
-<https://the-coffee-machine-aqytdqbhzz52szx2tszcix.streamlit.app/>
+<https://the-coffee-machine-qjucedy3ucr7rxpzuxeuw3.streamlit.app//>
 
 This is a simple Streamlit-based coffee machine simulation where users can order different types of coffee, check resources, and add resources to the machine.
 
